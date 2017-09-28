@@ -1,12 +1,8 @@
-body {
-  background-color:red}
+.three {
+  font-family: Arial;
+  text-transform: capitalize;
+}
 
-  .greentext {
-    color:green;
-    font-style: italic;
-  }
-
-.list {
-  display: inline;
-  font-size: 30px;
+.boomer{
+  border: 1px solid black;
 }
