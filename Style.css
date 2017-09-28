@@ -1,10 +1,12 @@
-#firstheader {
-  color: red;
-  font-weight:bold;
-}
+body {
+  background-color:red}
 
-.GreenText{
-  color:green;
-  font-style: italic;
+  .greentext {
+    color:green;
+    font-style: italic;
+  }
+
+.list {
+  display: inline;
+  font-size: 30px;
 }
-  
