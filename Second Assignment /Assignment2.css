@@ -1,0 +1,43 @@
+body{
+  background-color: grey;
+}
+
+#h1 {
+  font-size: 100px;
+  position: relative;top:40px;left:150px;
+  /*This is where I used a css class to change font size */
+}
+
+.p1 {
+  color: green;
+  /* This is where I used a css class to change the font colour */
+}
+
+h3, li {
+  color: orange;
+  /*This is where I used grouped selectors */
+}
+
+
+.h2{
+  text-transform: uppercase;
+  /* This is wheer I transforms the case of a piece of text */
+}
+
+#p2 {
+  font-family:sans-serif;
+  /* Where I changed the font type */
+}
+
+div p{
+  font-weight: bold;
+  /*This is where I used nested sectors as I targeted a paragraph within a div */
+}
+
+
+.box{
+  margin: 30px 20% 30px 20%;
+  border: white 4px dashed;
+  padding: 20px 10% 20px 10%;
+  /* This is where I used the concepts of the “Box” model (margin, border, padding, content)*/
+}
