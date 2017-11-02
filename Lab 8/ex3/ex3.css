@@ -1,0 +1,23 @@
+.greenb{
+  background-color: green;
+
+  height: 150px;
+}
+
+.border{
+  border: black dashed;
+margin: 10px;
+}
+
+
+.border span{
+  color: red;
+}
+
+.purple{
+  color: purple;
+}
+
+.G {
+  color: forestgreen;
+}

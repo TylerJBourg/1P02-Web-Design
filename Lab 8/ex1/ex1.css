@@ -1,0 +1,24 @@
+.box1{
+border-style: solid;
+margin: 100px;
+height: 400px;
+}
+
+body{
+  background-color: blue;
+}
+
+.text{
+  border:3px dotted white;
+}
+
+.smaller{
+  height: 200px;
+  width:200px;
+  border: dashed 1px white;
+  padding: 10px;
+}
+
+.text p{
+  margin
+}
